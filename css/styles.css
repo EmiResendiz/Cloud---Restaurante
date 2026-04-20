@@ -53,7 +53,7 @@ body {
 /* HERO SECTION */
 .hero {
     height: 100vh;
-    background: url('../comidamar.jpg') no-repeat center center/cover;
+    background: url('https://tiendacloud01emiresburg.blob.core.windows.net/imagenesemilioresburg/comidamar.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
