@@ -20,7 +20,7 @@ body {
 /* HEADER */
 .header {
     background: #8B4513;
-    color: white;
+    color: black;
     padding: 1rem;
     display: flex;
     justify-content: space-between;
@@ -73,14 +73,14 @@ body {
 
 .hero-content p {
     font-size: 1.2rem;
-    color: blue;
+    color: white;
     margin-bottom: 2rem;
 }
 
 .hero-content a {
     font-size: 1.2rem;
     margin-bottom: 2rem;
-    color: blue;
+    color: white;
     background: #d56000;
 }
 
