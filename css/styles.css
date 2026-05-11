@@ -20,7 +20,7 @@ body {
 /* HEADER */
 .header {
     background: #8B4513;
-    color: black;
+    color: #8B4513;
     padding: 1rem;
     display: flex;
     justify-content: space-between;
