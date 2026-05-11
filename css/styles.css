@@ -73,14 +73,14 @@ body {
 
 .hero-content p {
     font-size: 1.2rem;
-    color: black;
+    color: blue;
     margin-bottom: 2rem;
 }
 
 .hero-content a {
     font-size: 1.2rem;
     margin-bottom: 2rem;
-    color: white;
+    color: blue;
     background: #d56000;
 }
 
